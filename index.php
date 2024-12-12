@@ -6,7 +6,7 @@
     <title>Hello world </title>
 </head>
 <body>
-    <h1>Hello world first
+    <h1>Hello world second
          </h1>
     <?php echo gethostname();?>
 </body>
